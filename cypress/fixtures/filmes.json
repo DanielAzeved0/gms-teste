@@ -1,0 +1,18 @@
+[
+    {
+        "titulo" : "The Godfather",
+        "ano" : 1972,
+        "descricao" :  "The Godfather (O Poderoso Chefão) é uma trilogia de filmes dirigida por Francis Ford Coppola, baseada no romance de Mario Puzo, que narra a história da família Corleone, um dos mais poderosos clãs mafiosos ítalo-americanos."
+    },
+    {
+        "titulo" : "Batman Begins",
+        "ano" : 2005,
+        "descricao" : "Batman Begins é um filme de super-heróis de 2005 que conta a história de origem do Batman (Bruce Wayne) e explora o início da sua jornada como vigilante. O filme, dirigido por Christopher Nolan, mostra Bruce Wayne a viajar pelo mundo para desenvolver as habilidades físicas e mentais necessárias para combater o crime e, ao regressar a Gotham City, a sua cidade natal, a sua transformação em Batman. O filme também apresenta Ra's al Ghul, líder da Liga das Sombras, e o Espantalho como vilões, que ameaçam a cidade. "
+    },
+    {
+        "titulo" : "The Matrix",
+        "ano" : 1999,
+        "descricao" : "The Matrix é uma franquia de ficção científica criada pelas irmãs Wachowski, que começou com o filme de 1999 Matrix e foi continuada com Matrix Reloaded (2003), The Matrix Revolutions (2003) e The Matrix Resurrections (2021). A franquia, que inclui também animações, histórias em quadrinhos e videogames, explora uma história ciberpunk distópica com referências filosóficas e religiosas."
+    }
+
+]
